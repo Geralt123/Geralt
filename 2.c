@@ -47,4 +47,6 @@ main()
         wyznaczanie(liczba);
         getch();
         return 0;
-}5
+}
+
+//:)

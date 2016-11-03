@@ -42,3 +42,6 @@ main()
         fclose(wskaznik_pliku);
         return 0;
 }
+
+
+//:)

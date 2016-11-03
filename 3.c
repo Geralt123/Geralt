@@ -49,6 +49,6 @@ void drukowanie(int a[],int n)
                 printf("\n element %d = %d",i,a[i]);
 }
 
- 
 
- 
+
+//:)

@@ -43,6 +43,6 @@ float maksimum(float a[],int n)
         return maks;
 }
 
- 
 
- 
+
+ //:)

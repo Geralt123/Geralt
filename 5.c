@@ -43,3 +43,5 @@ int srednia(int c[],int n)
         return z;
 }
 
+
+//:)
