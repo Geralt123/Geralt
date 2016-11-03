@@ -1,3 +1,5 @@
+//3.c
+
 #include <stdio.h>
 #include <conio.h>
 main()
@@ -49,6 +51,5 @@ void drukowanie(int a[],int n)
                 printf("\n element %d = %d",i,a[i]);
 }
 
- 
 
- 
+
