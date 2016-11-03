@@ -1,4 +1,4 @@
-
+//1.c
 
 
 #include <stdio.h>
@@ -45,4 +45,3 @@ float maksimum(float a[],int n)
 
 
 
- //:)

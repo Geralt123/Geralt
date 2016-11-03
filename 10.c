@@ -1,4 +1,4 @@
-
+//10.c
 
 
 // Struktura zagnie¿d¿ona

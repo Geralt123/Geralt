@@ -1,3 +1,5 @@
+//9.c
+
 // Zapis do pliku struktury tablicowej
 #include <iostream>
 #include <conio.h>

@@ -1,3 +1,5 @@
+//8.c
+
 // Mieszane operacje zapisu i odczytu z pliku
 #include <stdio.h>
 #include <conio.h>
