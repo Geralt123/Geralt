@@ -1,4 +1,6 @@
-// Struktury instytuty z ich wczytywaniem
+//6.c
+
+//Struktury instytuty z ich wczytywaniem
 #include <stdio.h>
 #include <conio.h>
 main()
