@@ -1,6 +1,3 @@
-//7.c
-
-// Mieszane operacje zapisu i odczytu z pliku
 #include <stdio.h>
 #include <conio.h>
 main()
@@ -44,6 +41,3 @@ main()
         fclose(wskaznik_pliku);
         return 0;
 }
-
-
-//:)
