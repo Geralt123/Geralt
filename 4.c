@@ -22,24 +22,28 @@ main()
         getch();
         return 0;
 }
+
 int suma(int x,int y)
 {
         int z;
         z=x+y;
         return z;
 }
+
 int roznica(int x,int y)
 {
         int z;
         z=x-y;
         return z;
 }
+
 int iloczyn(int x,int y)
 {
         int z;
         z=x*y;
         return z;
 }
+
 int iloraz(int x,int y)
 {
         int z;
