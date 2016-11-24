@@ -1,5 +1,3 @@
-//5.c
-
 #include <stdio.h>
 #include <conio.h>
 main()
@@ -44,6 +42,3 @@ int srednia(int c[],int n)
         z=z/n;
         return z;
 }
-
-
-//:)
