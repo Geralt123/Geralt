@@ -1,0 +1,7 @@
+[License]
+Serial Number=EFILIVEV4LICENSE
+Key=GLUB-DDJH-DPZG-JHWR
+Type=Evaluation
+Expiry=31-Dec-2012
+LicensedTo=Evaluation
+Email=
