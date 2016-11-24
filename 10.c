@@ -1,7 +1,3 @@
-//10.c
-
-
-// Struktura zagnie¿d¿ona
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
