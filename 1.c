@@ -19,6 +19,8 @@ main()
         getch();
         return 0;
 }
+
+
 float minimum(float a[],int n)
 {
         float min;
