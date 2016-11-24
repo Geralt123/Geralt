@@ -1,6 +1,3 @@
-//1.c
-
-
 #include <stdio.h>
 #include <conio.h>
 main()
@@ -42,6 +39,3 @@ float maksimum(float a[],int n)
                         maks=a[i];
         return maks;
 }
-
-
-
