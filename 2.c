@@ -48,5 +48,3 @@ main()
         getch();
         return 0;
 }
-
-//:)
