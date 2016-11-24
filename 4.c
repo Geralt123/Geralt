@@ -1,5 +1,3 @@
-//4.c
-
 #include <stdio.h>
 #include <conio.h>
 main()
@@ -48,6 +46,3 @@ int iloraz(int x,int y)
         z=x/y;
         return z;
 }
-
-
-//:)
